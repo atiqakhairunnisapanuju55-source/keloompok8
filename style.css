@@ -6,7 +6,10 @@ html {
 }
 
 h {text-align: center;
+   color: navy;
   }
 .logo {width: 250px;
        height: auto;
       }
+body {background-color: navy;
+     }
