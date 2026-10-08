@@ -8,9 +8,10 @@ html {
 h {text-align: center;
    color: white;
   }
-.logo {display: block;
-    margin-left: auto;
-    margin-right: auto;
+.logo {align-items: center; 
+    justify-content: center;
+    min-height: 100vh;      
+    margin: 0;
     width: 250px;
     height: auto;
       }
