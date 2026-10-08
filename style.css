@@ -8,10 +8,15 @@ html {
 h {text-align: center;
    color: white;
   }
+ul {color: white;
+    list-style-type: square;
+   }
 .logo {align-items: center; 
     justify-content: center;
     width: 250px;
     height: auto;
       }
+h2 {color: white;
+   }
 body {background-color: navy;
      }
