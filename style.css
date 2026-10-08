@@ -8,8 +8,11 @@ html {
 h {text-align: center;
    color: white;
   }
-.logo {width: 250px;
-       height: auto;
+.logo {display: block;   /* Mengubah gambar menjadi elemen blok */
+    margin-left: auto;
+    margin-right: auto;
+    width: 250px;
+    height: auto;
       }
 body {background-color: navy;
      }
