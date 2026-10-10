@@ -5,10 +5,17 @@ html {
     url('data:image/svg+xml,<svg viewBox="-20 -5 60 40" width="140" xmlns="http://www.w3.org/2000/svg" opacity="0.2"><path d="M1 8l11-7 11 7v8l-11 7-11-7zm0 0l11 8 11-8m0 8L12 8 1 16M12 1v7m0 8v7" fill="none" stroke="currentColor" stroke-linejoin="round" stroke-width="2"/><text x="-12" y="32" font-size="5" font-family="monospace" fill="currentColor">Built on CodePen</text></svg>');
 }
 
-h {font-size: 20px;
+marquee {font-size: 20px;
    font-weight: Bold;
   text-align: center;
    color: white;
+         overflow:hidden;
+         white-space:nowrap;
+         backgorund-color:#FFF2B2;
+         border:2px solid #d4A72C;
+         border-radius:50px;
+         padding:10px 20px;
+         margin: 20px;
   }
 ul {color: white;
     list-style-type: square;
