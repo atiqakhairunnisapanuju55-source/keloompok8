@@ -19,7 +19,6 @@ marquee {
          margin: 20px;
   }
 nav {
-  justify-content:center;
   display: flex;
 }
 
