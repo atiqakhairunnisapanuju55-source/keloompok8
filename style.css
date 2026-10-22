@@ -19,11 +19,8 @@ marquee {
          margin: 20px;
   }
 nav {
+  justify-content:center;
   display: flex;
-  justify-content: center;
-  align-items: center;
-  gap: 20px;
-  margin: 30px auto;
 }
 
 nav a {
