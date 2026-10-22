@@ -18,13 +18,12 @@ marquee {
          padding:10px 20px;
          margin: 20px;
   }
+
 nav {
   display: flex;
 }
 
-nav a {
-  font-size: 25px;
-}
+
 
 ul {color: white;
     list-style-type: square;
@@ -37,7 +36,6 @@ ul {color: white;
   margin: 30px auto;
 }
   
-      }
 h2 {color: white;
     font-size: 18px;
     text-align: center 
